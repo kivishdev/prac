@@ -1,1 +1,6 @@
 Hello from main!
+Hello
+from
+master
+Conflicting change from master
+Resolved merge conflict between master and feature-a
